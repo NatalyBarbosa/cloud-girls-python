@@ -1,0 +1,3 @@
+#self.nome = nome.title() #self é uma referência #função title() coloca a primeira letra maiúscula
+#self.categoria = categoria.upper() #função upper() coloca em caixa alta
+#self._ativo = False #_ : privado
