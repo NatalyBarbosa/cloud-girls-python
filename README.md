@@ -5,5 +5,5 @@
 
 ## 🚀 Tecnologias
 <div>
-<i class="fa-brands fa-python"></i>
+<FontAwesomeIcon icon="fa-brands fa-python" />
 </div>
